@@ -9,3 +9,4 @@ Exploring time series and transformers for quantitative stock analysis.
 - [ ] Clean up LSTM code.
 - [ ] Try Temporal Fusion Transformers
 - [ ] Try PatchTST 
+- [ ] (Stretch w/ resources) Try Multi-Modal fusion. Use news data to enhance transformer (decoder or encoder).
